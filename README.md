@@ -93,6 +93,7 @@ Ce script permet de :
 - Bloquer l’accès aux fichiers liés au root
   
 - Empêcher la lecture de /proc/mounts
+  
 
 <img width="618" height="203" alt="image" src="https://github.com/user-attachments/assets/6847f703-c75b-483b-a55a-5b2822229e9d
  " />
